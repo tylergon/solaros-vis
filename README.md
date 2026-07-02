@@ -2,6 +2,15 @@
 
 This is the home for my initial attempts at creating a web map for my OSolar project.
 
+## Checklist
+
+Let's put the ducks in a row. How do we actually get to creating a prototype?
+
+- [ ] Get some map layers prepared.
+    - [ ] Collect the layers from the MGEM project.
+    - [ ] Reformat them into tiles (PMTiles and COG).
+- [ ] Create a map to load layers into.
+
 ## Roadmap
 
 1. **Static Prototype**. The first product created in this repo will be a static map visualizing the results from my capstone project. This will be a 2-metre spatial resolution.
