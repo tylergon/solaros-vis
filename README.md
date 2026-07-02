@@ -2,6 +2,15 @@
 
 This is the home for my initial attempts at creating a web map for my OSolar project.
 
+## Jotting down the stack
+
+- Svelte + TypeScript + Vite
+- MapLibre GL
+- [PMTiles](https://github.com/protomaps/pmtiles) (vector to tiles)
+    - What is [this](https://svelte-maplibre-gl.mierune.dev/docs/quickstart)?
+- [Tippecanoe](https://github.com/felt/tippecanoe) (raster to COG)
+- (Eventually) TiTiler & Martin
+
 ## Checklist
 
 Let's put the ducks in a row. How do we actually get to creating a prototype?
