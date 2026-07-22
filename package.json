@@ -10,12 +10,14 @@
     "check": "svelte-check --tsconfig ./tsconfig.app.json && tsc -p tsconfig.node.json"
   },
   "devDependencies": {
+    "@svelte-maplibre-gl/pmtiles": "^2.0.1",
     "@sveltejs/vite-plugin-svelte": "^7.1.2",
     "@tsconfig/svelte": "^5.0.8",
     "@types/maplibre-gl": "^1.14.0",
     "@types/node": "^24.13.2",
     "svelte": "^5.56.4",
     "svelte-check": "^4.7.1",
+    "svelte-maplibre-gl": "^2.1.0",
     "typescript": "~6.0.2",
     "vite": "^8.1.1"
   },
